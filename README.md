@@ -31,8 +31,8 @@ The server runs on the 435 revision of the game, which was a game update made on
 * Audio :yellow_square:
     * Music :yellow_square:
         * Playing music :heavy_check_mark:
-        * Music Regions :x:
-        * Music Player tab :x:
+        * Music Regions :heavy_check_mark:
+        * Music Player tab :heavy_check_mark:
     * Sounds :yellow_square:
         * Playing sounds :heavy_check_mark:
         * Sound effects for actions :yellow_square:
@@ -58,29 +58,29 @@ The server runs on the 435 revision of the game, which was a game update made on
 
 * Combat :yellow_square:
     * Melee :yellow_square:
-    * Ranged :x:
-    * Magic :x:
-* Prayer :x:
-* Cooking :x:
-* Fletching :x:
-* Fishing :x:
+    * Ranged :heavy_check_mark:
+    * Magic :heavy_check_mark:
+* Prayer :heavy_check_mark:
+* Cooking :heavy_check_mark:
+* Fletching :heavy_check_mark:
+* Fishing :heavy_check_mark:
 * Firemaking :yellow_square:
     * Fire lighting :yellow_square:
     * Chain fires w/ movement :yellow_square:
-* Herblore :x:
-* Agility :x:
-* Thieving :x:
-* Slayer :x:
-* Farming :x:
-* Runecrafting :x:
-* Construction :x:
+* Herblore :heavy_check_mark:
+* Agility :heavy_check_mark:
+* Thieving :heavy_check_mark:
+* Slayer :heavy_check_mark:
+* Farming :heavy_check_mark:
+* Runecrafting :heavy_check_mark:
+* Construction :heavy_check_mark:
 * Woodcutting :yellow_square: 
     * Formula for success :heavy_check_mark:
     * Chopping Trees :heavy_check_mark: 
     * Axes :heavy_check_mark:
     * Birds nests  :heavy_check_mark: 
     * Stump ids :yellow_square: 
-    * Canoes :x:
+    * Canoes :heavy_check_mark:
 * Mining :yellow_square: 
     * Formula for success :heavy_check_mark:
     * Mining ores :heavy_check_mark: 
