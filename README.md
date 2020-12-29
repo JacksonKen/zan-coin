@@ -20,39 +20,25 @@ The server runs on the 435 revision of the game, which was a game update made on
 
 ### Mining Coin
 
-* Private & group Player Instances :heavy_check_mark:
-* Personal player instance objects and world items :heavy_check_mark:
-* Bank :yellow_square: 
+* Private & group miner Instances :heavy_check_mark:
+* Personal miner instance objects and items :heavy_check_mark:
+* Market :yellow_square: 
     * Withdraw/Deposit 1,5,10,All :heavy_check_mark:
     * As note  :heavy_check_mark: 
     * Swap slot :heavy_check_mark:
     * Insert mode: :heavy_check_mark:
     * Deposit box :yellow_square: 
-* Audio :yellow_square:
-    * Music :yellow_square:
-        * Playing music :heavy_check_mark:
-        * Music Regions :heavy_check_mark:
-        * Music Player tab :heavy_check_mark:
-    * Sounds :yellow_square:
-        * Playing sounds :heavy_check_mark:
-        * Sound effects for actions :yellow_square:
 * Home Teleport :heavy_check_mark:
 * Emotes :heavy_check_mark:
     * Skillcape emotes :heavy_check_mark:
     * Unlockable emotes w/ requirements :heavy_check_mark:
 * Shop support :heavy_check_mark:
-* Inventory support :heavy_check_mark:
+* Trade :heavy_check_mark:
     * Swapping items :heavy_check_mark:
     * Dropping items :heavy_check_mark:
     * Picking up ground items :heavy_check_mark:
     * Equipping items :heavy_check_mark:
-* Doors/gates :yellow_square: 
-    * NSEW doors :heavy_check_mark:
-    * Diagonal doors :yellow_square:
-    * Double doors :heavy_check_mark: 
-    * Wooden gates :heavy_check_mark: 
-* Climbing ladders & stairs :yellow_square:
-* Clue Scrolls :x:
+
 
 ### Notice
 
@@ -60,7 +46,7 @@ The server runs on the 435 revision of the game, which was a game update made on
     * Melee :yellow_square:
     * Ranged :heavy_check_mark:
     * Magic :heavy_check_mark:
-* Prayer :heavy_check_mark:
+* Miner :heavy_check_mark:
 * Cooking :heavy_check_mark:
 * Fletching :heavy_check_mark:
 * Fishing :heavy_check_mark:
@@ -89,13 +75,6 @@ The server runs on the 435 revision of the game, which was a game update made on
     * Gem ores :heavy_check_mark:
     * Essence mining :heavy_check_mark:
     * Empty Rock ids :yellow_square: 
-* Crafting :yellow_square: 
-    * Spinning wheel :heavy_check_mark:
-* Smithing :yellow_square: 
-    * Smelting ore to bars :heavy_check_mark:
-    * Forging :yellow_square:
-        * Correct items :heavy_check_mark:
-        * Hiding non applicable items :yellow_square: 
     
 ### Quests
 * Cook's Assistant :heavy_check_mark:
